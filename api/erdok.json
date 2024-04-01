@@ -1,0 +1,347 @@
+{
+  "erdok":
+  [
+  {
+    "Id": 1,
+    "nev": "Zempléni Erdő",
+    "tipus": "lombhullató",
+    "meret": 120,
+    "terulet": "Zempléni-hegység",
+    "orszag": "Magyarország",
+    "vedett_terulet": true
+  },
+  {
+    "Id": 2,
+    "nev": "Bükki Erdő",
+    "tipus": "vegyes",
+    "meret": 200,
+    "terulet": "Bükk-hegység",
+    "orszag": "Magyarország",
+    "vedett_terulet": true
+  },
+  {
+    "Id": 3,
+    "nev": "Balatoni Fenyőerdő",
+    "tipus": "fenyő",
+    "meret": 80,
+    "terulet": "Balaton-felvidék",
+    "orszag": "Magyarország",
+    "vedett_terulet": false
+  },
+  {
+    "Id": 4,
+    "nev": "Mecsek Ligeterdő",
+    "tipus": "lombhullató",
+    "meret": 50,
+    "terulet": "Mecsek",
+    "orszag": "Magyarország",
+    "vedett_terulet": false
+  },
+  {
+    "Id": 5,
+    "nev": "Tisza-parti Nyárerdő",
+    "tipus": "lombhullató",
+    "meret": 65,
+    "terulet": "Tiszántúl",
+    "orszag": "Magyarország",
+    "vedett_terulet": true
+  },
+  {
+    "Id": 6,
+    "nev": "Borsodi Bükkös",
+    "tipus": "lombhullató",
+    "meret": 85,
+    "terulet": "Borsod-Abaúj-Zemplén",
+    "orszag": "Magyarország",
+    "vedett_terulet": false
+  },
+  {
+    "Id": 7,
+    "nev": "Hortobágyi Ligeterdő",
+    "tipus": "sztyepp",
+    "meret": 30,
+    "terulet": "Hortobágy",
+    "orszag": "Magyarország",
+    "vedett_terulet": true
+  },
+  {
+    "Id": 8,
+    "nev": "Somogyi Tölgyes",
+    "tipus": "lombhullató",
+    "meret": 70,
+    "terulet": "Somogy",
+    "orszag": "Magyarország",
+    "vedett_terulet": true
+  },
+  {
+    "Id": 9,
+    "nev": "Nyírségi Fenyves",
+    "tipus": "fenyő",
+    "meret": 45,
+    "terulet": "Nyírség",
+    "orszag": "Magyarország",
+    "vedett_terulet": false
+  },
+  {
+    "Id": 10,
+    "nev": "Szigetközi Nyárerdő",
+    "tipus": "lombhullató",
+    "meret": 55,
+    "terulet": "Szigetköz",
+    "orszag": "Magyarország",
+    "vedett_terulet": false
+  },
+  {
+    "Id": 11,
+    "nev": "Hajdúsági Ligeterdő",
+    "tipus": "lombhullató",
+    "meret": 40,
+    "terulet": "Hajdúság",
+    "orszag": "Magyarország",
+    "vedett_terulet": true
+  },
+  {
+    "Id": 12,
+    "nev": "Gödöllői Bükkös",
+    "tipus": "lombhullató",
+    "meret": 75,
+    "terulet": "Gödöllői-dombság",
+    "orszag": "Magyarország",
+    "vedett_terulet": false
+  },
+  {
+    "Id": 13,
+    "nev": "Kiskunsági Homokfűz",
+    "tipus": "homoki erdő",
+    "meret": 25,
+    "terulet": "Kiskunság",
+    "orszag": "Magyarország",
+    "vedett_terulet": true
+  },
+  {
+    "Id": 14,
+    "nev": "Pilisi Tölgyes",
+    "tipus": "lombhullató",
+    "meret": 90,
+    "terulet": "Pilis",
+    "orszag": "Magyarország",
+    "vedett_terulet": false
+  },
+  {
+    "Id": 15,
+    "nev": "Hévízi Nyárerdő",
+    "tipus": "lombhullató",
+    "meret": 60,
+    "terulet": "Hévíz",
+    "orszag": "Magyarország",
+    "vedett_terulet": true
+  },
+  {
+    "Id": 16,
+    "nev": "Káli-medencei Ligeterdő",
+    "tipus": "lombhullató",
+    "meret": 35,
+    "terulet": "Káli-medence",
+    "orszag": "Magyarország",
+    "vedett_terulet": true
+  },
+  {
+    "Id": 17,
+    "nev": "Budaörsi Fenyves",
+    "tipus": "fenyő",
+    "meret": 50,
+    "terulet": "Budaörs",
+    "orszag": "Magyarország",
+    "vedett_terulet": false
+  },
+  {
+    "Id": 18,
+    "nev": "Soproni Ligeterdő",
+    "tipus": "lombhullató",
+    "meret": 55,
+    "terulet": "Sopron",
+    "orszag": "Magyarország",
+    "vedett_terulet": true
+  },
+  {
+    "Id": 19,
+    "nev": "Eplényi Fenyőerdő",
+    "tipus": "fenyő",
+    "meret": 40,
+    "terulet": "Eplény",
+    "orszag": "Magyarország",
+    "vedett_terulet": false
+  },
+  {
+    "Id": 20,
+    "nev": "Tapolcai Ligeterdő",
+    "tipus": "lombhullató",
+    "meret": 70,
+    "terulet": "Tapolca",
+    "orszag": "Magyarország",
+    "vedett_terulet": true
+  },
+  {
+    "Id": 21,
+    "nev": "Zalai Tölgyes",
+    "tipus": "lombhullató",
+    "meret": 65,
+    "terulet": "Zala",
+    "orszag": "Magyarország",
+    "vedett_terulet": false
+  },
+  {
+    "Id": 22,
+    "nev": "Borostyánkői Homokfűz",
+    "tipus": "homoki erdő",
+    "meret": 20,
+    "terulet": "Borostyánkő",
+    "orszag": "Magyarország",
+    "vedett_terulet": true
+  },
+  {
+    "Id": 23,
+    "nev": "Esztergomi Ligeterdő",
+    "tipus": "lombhullató",
+    "meret": 45,
+    "terulet": "Esztergom",
+    "orszag": "Magyarország",
+    "vedett_terulet": false
+  },
+  {
+    "Id": 24,
+    "nev": "Szombathelyi Tölgyes",
+    "tipus": "lombhullató",
+    "meret": 80,
+    "terulet": "Szombathely",
+    "orszag": "Magyarország",
+    "vedett_terulet": true
+  },
+  {
+    "Id": 25,
+    "nev": "Debreceni Ligeterdő",
+    "tipus": "lombhullató",
+    "meret": 60,
+    "terulet": "Debrecen",
+    "orszag": "Magyarország",
+    "vedett_terulet": false
+  },
+  {
+    "Id": 26,
+    "nev": "Sárvári Nyárerdő",
+    "tipus": "lombhullató",
+    "meret": 75,
+    "terulet": "Sárvár",
+    "orszag": "Magyarország",
+    "vedett_terulet": true
+  },
+  {
+    "Id": 27,
+    "nev": "Hargitai Fenyves",
+    "tipus": "fenyő",
+    "meret": 55,
+    "terulet": "Hargita",
+    "orszag": "Magyarország",
+    "vedett_terulet": false
+  },
+  {
+    "Id": 28,
+    "nev": "Cserháti Ligeterdő",
+    "tipus": "lombhullató",
+    "meret": 65,
+    "terulet": "Cserhát",
+    "orszag": "Magyarország",
+    "vedett_terulet": true
+  },
+  {
+    "Id": 29,
+    "nev": "Pannonhalmi Tölgyes",
+    "tipus": "lombhullató",
+    "meret": 70,
+    "terulet": "Pannonhalmi-dombság",
+    "orszag": "Magyarország",
+    "vedett_terulet": false
+  },
+  {
+    "Id": 30,
+    "nev": "Bükkösdi Ligeterdő",
+    "tipus": "lombhullató",
+    "meret": 45,
+    "terulet": "Bükkösdi-dombság",
+    "orszag": "Magyarország",
+    "vedett_terulet": true
+  },
+  {
+    "Id": 31,
+    "nev": "Tiszai Nyárerdő",
+    "tipus": "lombhullató",
+    "meret": 85,
+    "terulet": "Tisza",
+    "orszag": "Magyarország",
+    "vedett_terulet": false
+  },
+  {
+    "Id": 32,
+    "nev": "Kiskunsági Ligeterdő",
+    "tipus": "lombhullató",
+    "meret": 55,
+    "terulet": "Kiskunság",
+    "orszag": "Magyarország",
+    "vedett_terulet": true
+  },
+  {
+    "Id": 33,
+    "nev": "Zalai Ligeterdő",
+    "tipus": "lombhullató",
+    "meret": 60,
+    "terulet": "Zala",
+    "orszag": "Magyarország",
+    "vedett_terulet": false
+  },
+  {
+    "Id": 34,
+    "nev": "Balatonföldvári Tölgyes",
+    "tipus": "lombhullató",
+    "meret": 75,
+    "terulet": "Balatonföldvár",
+    "orszag": "Magyarország",
+    "vedett_terulet": true
+  },
+  {
+    "Id": 35,
+    "nev": "Keszthelyi Ligeterdő",
+    "tipus": "lombhullató",
+    "meret": 50,
+    "terulet": "Keszthely",
+    "orszag": "Magyarország",
+    "vedett_terulet": false
+  },
+  {
+    "Id": 36,
+    "nev": "Balatonalmádi Ligeterdő",
+    "tipus": "lombhullató",
+    "meret": 65,
+    "terulet": "Balatonalmádi",
+    "orszag": "Magyarország",
+    "vedett_terulet": true
+  },
+  {
+    "Id": 37,
+    "nev": "Tatai Tölgyes",
+    "tipus": "lombhullató",
+    "meret": 40,
+    "terulet": "Tata",
+    "orszag": "Magyarország",
+    "vedett_terulet": false
+  },
+  {
+    "Id": 38,
+    "nev": "Gödöllői Ligeterdő",
+    "tipus": "lombhullató",
+    "meret": 55,
+    "terulet": "Gödöllő",
+    "orszag": "Magyarország",
+    "vedett_terulet": true
+  }
+]
+}
